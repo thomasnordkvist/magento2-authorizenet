@@ -1,0 +1,5 @@
+/.idea
+/app/.htaccess
+/app/autoload.php
+/app/bootstrap.php
+/app/functions.php
